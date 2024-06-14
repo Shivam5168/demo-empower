@@ -1,0 +1,8 @@
+.normalOperation {
+  width: 116px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-ubuntu);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+}

@@ -1,0 +1,6 @@
+.ellipseDiv {
+  width: 13px;
+  border-radius: 50%;
+  background-color: var(--color-darkgreen);
+  height: 13px;
+}
