@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-ubuntu: Ubuntu;
+
+  /* font sizes */
+  --font-size-3xl: 22px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #212121;
+  --color-darkgreen: #12741c;
+
+  /* Gaps */
+  --gap-4xs: 9px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+}

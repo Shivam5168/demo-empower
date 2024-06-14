@@ -1,0 +1,285 @@
+.image54Icon,
+.image63Icon {
+  position: absolute;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+  display: none;
+}
+.image54Icon {
+  top: 0;
+  mix-blend-mode: overlay;
+}
+.image63Icon {
+  top: 2px;
+}
+.pptMesaDeTrabajo1Copy24 {
+  top: 0;
+  width: 1920px;
+  height: 1080.2px;
+  opacity: 0.5;
+  mix-blend-mode: overlay;
+}
+.image106Icon,
+.pptMesaDeTrabajo1Copy22,
+.pptMesaDeTrabajo1Copy24,
+.slide151 {
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+  display: none;
+}
+.pptMesaDeTrabajo1Copy22 {
+  top: 0;
+  width: 1920px;
+  height: 1080.2px;
+  opacity: 0.6;
+  mix-blend-mode: hard-light;
+}
+.image106Icon,
+.slide151 {
+  top: -100.6px;
+  width: 1916.1px;
+  height: 1278.6px;
+}
+.slide151 {
+  top: 0;
+  width: 1920px;
+  height: 1080px;
+}
+.electricVehiclePpt1Icon,
+.electricVehiclePpt2Icon,
+.electricVehiclePpt3Icon {
+  position: absolute;
+  top: -4px;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: contain;
+  display: none;
+}
+.electricVehiclePpt2Icon,
+.electricVehiclePpt3Icon {
+  top: 0;
+}
+.electricVehiclePpt3Icon {
+  top: -9.1px;
+  width: 1936.2px;
+  height: 1089.1px;
+}
+.landingPageChild {
+  position: absolute;
+  top: -80px;
+  left: 1727px;
+  width: 1412px;
+  height: 1384px;
+  object-fit: contain;
+}
+.landingPageItem {
+  position: absolute;
+  height: 4.3%;
+  width: 13.33%;
+  top: 2.59%;
+  right: 84.53%;
+  bottom: 93.11%;
+  left: 2.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.teenyiconstickCircleSolid {
+  position: absolute;
+  top: 737.7px;
+  left: 260px;
+  width: 31px;
+  height: 31px;
+  overflow: hidden;
+}
+.empoweringSustainable,
+.freightMobility {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 382.5px);
+  line-height: 96.5%;
+}
+.freightMobility {
+  top: 83.6px;
+  font-size: 82px;
+  color: var(--color-darkgreen);
+}
+.empoweringSustainableParent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 382.5px);
+  width: 765px;
+  height: 162.6px;
+}
+.frameChild,
+.groupWrapper {
+  width: 765px;
+  position: relative;
+  height: 162.6px;
+}
+.frameChild {
+  width: 54px;
+  border-radius: 5px;
+  background-color: var(--color-darkgreen);
+  height: 5px;
+}
+.selectYourRole {
+  position: relative;
+  line-height: 96.5%;
+  text-transform: uppercase;
+}
+.component89Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: #13a4ed;
+}
+.carriers {
+  position: relative;
+  line-height: 96.5%;
+  font-weight: 500;
+}
+.frameItem {
+  width: 6px;
+  position: relative;
+  height: 12px;
+  object-fit: contain;
+}
+.carriersParent {
+  position: absolute;
+  height: 32.81%;
+  width: 41.63%;
+  top: 33.59%;
+  right: 29.18%;
+  bottom: 33.59%;
+  left: 29.18%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.component89 {
+  width: 233px;
+  position: relative;
+  height: 64px;
+}
+.component90Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: #0cd793;
+}
+.chargingDepotsParent {
+  position: absolute;
+  height: 32.81%;
+  width: 57.89%;
+  top: 33.59%;
+  right: 21.05%;
+  bottom: 33.59%;
+  left: 21.05%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.component90 {
+  width: 323px;
+  position: relative;
+  height: 64px;
+}
+.component91Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: #b778e9;
+}
+.utilitiesParent {
+  position: absolute;
+  height: 32.81%;
+  width: 43.11%;
+  top: 33.59%;
+  right: 28.44%;
+  bottom: 33.59%;
+  left: 28.44%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.component91 {
+  width: 225px;
+  position: relative;
+  height: 64px;
+}
+.component89Parent,
+.groupParent,
+.selectYourRoleParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component89Parent {
+  flex-direction: row;
+  gap: 21px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.groupParent,
+.selectYourRoleParent {
+  flex-direction: column;
+}
+.selectYourRoleParent {
+  gap: 26px;
+  font-size: 32px;
+}
+.groupParent {
+  position: absolute;
+  top: calc(50% - 196.3px);
+  left: 109.1px;
+  gap: 52px;
+}
+.landingPageInner {
+  position: absolute;
+  height: 67.39%;
+  width: 36.98%;
+  top: 16.31%;
+  right: 9.83%;
+  bottom: 16.31%;
+  left: 53.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.landingPage {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(-81.08deg, #fff, #d8f9e0);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 48px;
+  color: var(--color-gray);
+  font-family: var(--font-ubuntu);
+}
