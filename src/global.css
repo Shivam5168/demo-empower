@@ -1,24 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=GepesteV:wght@500&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Helvetica:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=MADE+TOMMY:wght@400&display=swap");
 body {
   margin: 0;
   line-height: normal;
 }
 :root {
   /* fonts */
+  --font-helvetica: Helvetica;
   --font-ubuntu: Ubuntu;
+  --font-gepestev: GepesteV;
+  --font-made-tommy: "MADE TOMMY";
 
   /* font sizes */
+  --font-size-xs-9: 11.9px;
+  --font-size-base: 16px;
+  --font-size-9xl: 28px;
+  --font-size-lg: 18px;
   --font-size-3xl: 22px;
-  --font-size-xl: 20px;
 
   /* Colors */
-  --color-white: #fff;
-  --color-gray: #212121;
+  --color-honeydew: #d8f9e0;
   --color-darkgreen: #12741c;
+  --color-mediumseagreen: #0cd793;
+  --color-mediumpurple: #b778e9;
+  --color-steelblue: #1598da;
+  --color-deepskyblue: #13a4ed;
+  --color-gray-100: #757575;
+  --color-gray-200: #212121;
+  --color-gray-300: #221122;
+  --color-white: #fff;
+  --color-whitesmoke-100: #f7f7fa;
+  --color-lightgray-100: #cfcfcf;
 
   /* Gaps */
-  --gap-4xs: 9px;
+  --gap-3xs: 10px;
+  --gap-5xl: 24px;
+  --gap-3xl: 22px;
+  --gap-5xs: 8px;
+  --gap-xs: 12px;
+
+  /* Paddings */
+  --padding-2xs: 11px;
+  --padding-xs: 12px;
+  --padding-lg: 18px;
+  --padding-3xl: 22px;
 
   /* Border radiuses */
-  --br-3xs: 10px;
+  --br-xs-5: 11.5px;
+  --br-8xs: 5px;
+  --br-5xs: 8px;
 }

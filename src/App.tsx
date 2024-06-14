@@ -5,6 +5,9 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
+import CarrierLogin from "./pages/CarrierLogin";
+import InfrastructureChargingDepo from "./pages/InfrastructureChargingDepo";
+import Frame from "./pages/Frame";
 import LandingPage from "./pages/LandingPage";
 
 function App() {
@@ -27,6 +30,18 @@ function App() {
         title = "";
         metaDescription = "";
         break;
+      case "/infrastructure-charging-depots-login":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/404":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/landing-page":
+        title = "";
+        metaDescription = "";
+        break;
     }
 
     if (title) {
@@ -45,7 +60,13 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<LandingPage />} />
+      <Route path="/" element={<CarrierLogin />} />
+      <Route
+        path="/infrastructure-charging-depots-login"
+        element={<InfrastructureChargingDepo />}
+      />
+      <Route path="/404" element={<Frame />} />
+      <Route path="/landing-page" element={<LandingPage />} />
     </Routes>
   );
 }

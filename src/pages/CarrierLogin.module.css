@@ -1,0 +1,1249 @@
+.image54Icon,
+.image63Icon {
+  position: absolute;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+  display: none;
+}
+.image54Icon {
+  top: 0;
+  mix-blend-mode: overlay;
+}
+.image63Icon {
+  top: 2px;
+}
+.pptMesaDeTrabajo1Copy24 {
+  top: 0;
+  width: 1920px;
+  height: 1080.2px;
+  opacity: 0.5;
+  mix-blend-mode: overlay;
+}
+.image106Icon,
+.pptMesaDeTrabajo1Copy22,
+.pptMesaDeTrabajo1Copy24,
+.slide151 {
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+  display: none;
+}
+.pptMesaDeTrabajo1Copy22 {
+  top: 0;
+  width: 1920px;
+  height: 1080.2px;
+  opacity: 0.6;
+  mix-blend-mode: hard-light;
+}
+.image106Icon,
+.slide151 {
+  top: -100.6px;
+  width: 1916.1px;
+  height: 1278.6px;
+}
+.slide151 {
+  top: 0;
+  width: 1920px;
+  height: 1080px;
+}
+.electricVehiclePpt1Icon,
+.electricVehiclePpt2Icon,
+.electricVehiclePpt3Icon {
+  position: absolute;
+  top: -4px;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: contain;
+  display: none;
+}
+.electricVehiclePpt2Icon,
+.electricVehiclePpt3Icon {
+  top: 0;
+}
+.electricVehiclePpt3Icon {
+  top: -9.1px;
+  width: 1936.2px;
+  height: 1089.1px;
+}
+.carrierLoginChild {
+  position: absolute;
+  top: 0;
+  left: 958px;
+  background-color: var(--color-white);
+  width: 960px;
+  height: 1080px;
+}
+.davidSmith {
+  position: absolute;
+  top: 171.4px;
+  left: 990.9px;
+  font-weight: 500;
+  font-family: var(--font-gepestev);
+  color: var(--color-white);
+  display: none;
+}
+.groupChild {
+  position: absolute;
+  height: 10.63%;
+  width: 49.89%;
+  top: 0;
+  right: 50.11%;
+  bottom: 89.37%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupItem {
+  position: absolute;
+  top: 131px;
+  left: 130.1px;
+  width: 69px;
+  height: 25px;
+}
+.component28Icon {
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.component28Icon,
+.userName {
+  position: relative;
+}
+.component28Parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.component27Icon,
+.placeholder {
+  width: 170px;
+  position: relative;
+  height: 24px;
+}
+.component27Icon {
+  width: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  display: none;
+}
+.field {
+  width: 588px;
+  box-shadow: 0 0 20px rgba(18, 116, 28, 0.04);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgreen);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-lg) var(--padding-3xl);
+  gap: var(--gap-3xl);
+}
+.placeholder1 {
+  width: 102px;
+  position: relative;
+  height: 24px;
+}
+.field1,
+.fieldParent {
+  display: flex;
+  justify-content: flex-start;
+}
+.field1 {
+  width: 588px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-whitesmoke-100);
+  border: 1px solid var(--color-lightgray-100);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-lg) var(--padding-3xl);
+  gap: var(--gap-3xl);
+  color: var(--color-gray-100);
+}
+.fieldParent {
+  position: absolute;
+  top: 222px;
+  left: 0.1px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.forgotPassword {
+  position: absolute;
+  top: 396.4px;
+  left: 455.1px;
+  color: var(--color-darkgreen);
+}
+.checkboxIcon {
+  width: 20px;
+  position: relative;
+  height: 20px;
+}
+.checkboxParent {
+  position: absolute;
+  top: 395.4px;
+  left: 0.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  color: var(--color-gray-100);
+}
+.signIn {
+  position: relative;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+}
+.button {
+  position: absolute;
+  top: 440.4px;
+  left: calc(50% - 293.95px);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.04);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkgreen);
+  width: 588px;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-2xs) var(--padding-xs) var(--padding-lg);
+  box-sizing: border-box;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.freightMoversLogin {
+  position: absolute;
+  top: 155.5px;
+  left: 0;
+  font-size: var(--font-size-9xl);
+  color: var(--color-gray-200);
+}
+.groupParent {
+  position: absolute;
+  height: 46.33%;
+  width: 30.63%;
+  top: 24.35%;
+  right: 9.74%;
+  bottom: 29.31%;
+  left: 59.63%;
+  color: var(--color-gray-300);
+}
+.carrierLoginItem {
+  position: absolute;
+  top: 345.4px;
+  left: 1145.1px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-darkgreen);
+  width: 54px;
+  height: 5px;
+}
+.backToHome,
+.groupIcon {
+  position: absolute;
+  top: 3.5px;
+  left: 35.1px;
+}
+.groupIcon {
+  height: 100%;
+  width: 19.62%;
+  top: 0;
+  right: 80.38%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.backToHomeParent,
+.carrierLoginInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 136.1px;
+  height: 26.7px;
+}
+.carrierLoginInner {
+  top: 803.6px;
+  left: 1370.9px;
+}
+.groupInner {
+  top: 49px;
+  left: 0;
+  border: 1.5px dashed var(--color-mediumpurple);
+  width: 780px;
+  height: 780px;
+  opacity: 0.5;
+}
+.ellipseDiv,
+.groupChild1,
+.groupInner {
+  position: absolute;
+  border-radius: 50%;
+  box-sizing: border-box;
+}
+.ellipseDiv {
+  top: 202.7px;
+  left: 78.1px;
+  border: 1.5px dashed var(--color-mediumseagreen);
+  width: 623.8px;
+  height: 626.3px;
+  opacity: 0.5;
+}
+.groupChild1 {
+  top: 361.3px;
+  left: 156.2px;
+  border: 1.5px dashed var(--color-deepskyblue);
+  width: 467.6px;
+  height: 467.6px;
+}
+.groupChild2 {
+  height: 4.7%;
+  width: 30.49%;
+  top: 95.3%;
+  right: 34.73%;
+  bottom: 0;
+  left: 34.78%;
+  max-height: 100%;
+}
+.groupChild2,
+.groupChild3,
+.groupChild4,
+.vectorIcon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+}
+.groupChild3 {
+  height: 43.43%;
+  width: 27.78%;
+  top: 50.99%;
+  right: 36.44%;
+  bottom: 5.59%;
+  left: 35.78%;
+  max-height: 100%;
+}
+.groupChild4,
+.vectorIcon {
+  top: 261.7px;
+  left: 390px;
+  height: 51px;
+}
+.groupChild4 {
+  top: 104.5px;
+}
+.groupIcon1 {
+  height: 4.99%;
+  width: 7.19%;
+  top: 36.85%;
+  right: 46.59%;
+  bottom: 58.17%;
+  left: 46.22%;
+}
+.groupIcon1,
+.instanceChild,
+.vectorIcon1 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 27%;
+  width: 13.95%;
+  top: 72.12%;
+  right: 82.57%;
+  bottom: 0.88%;
+  left: 3.48%;
+  object-fit: contain;
+}
+.instanceChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 11.54px;
+}
+.frameChild {
+  width: 13.6px;
+  position: relative;
+  height: 13.6px;
+}
+.groupWrapper {
+  position: absolute;
+  height: 95.1%;
+  width: 33.01%;
+  top: 2.8%;
+  right: 66.99%;
+  bottom: 2.1%;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tms {
+  position: absolute;
+  top: 0;
+  left: 39.81%;
+  line-height: 129%;
+}
+.frameParent {
+  position: absolute;
+  height: 68.42%;
+  width: 77.88%;
+  top: 15.79%;
+  right: 9.26%;
+  bottom: 15.79%;
+  left: 12.85%;
+}
+.instanceWrapper,
+.vectorGroup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 52.9px;
+  height: 20.9px;
+}
+.instanceWrapper {
+  top: 171.5px;
+}
+.groupChild5,
+.vectorIcon2 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon2 {
+  height: 100%;
+  width: 79.36%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 20.64%;
+  object-fit: contain;
+}
+.groupChild5 {
+  height: 16.82%;
+  width: 52.16%;
+  top: 44.08%;
+  right: 13.47%;
+  bottom: 39.1%;
+  left: 34.36%;
+}
+.vectorContainer {
+  position: absolute;
+  height: 27%;
+  width: 17.58%;
+  top: 33.26%;
+  right: 78.29%;
+  bottom: 39.74%;
+  left: 4.13%;
+}
+.groupIcon2,
+.vectorIcon3 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon3 {
+  height: 100%;
+  width: 80.05%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 19.95%;
+  object-fit: contain;
+}
+.groupIcon2 {
+  height: 14.17%;
+  width: 56.73%;
+  top: 42.83%;
+  right: 11.6%;
+  bottom: 42.99%;
+  left: 31.67%;
+}
+.instanceFrame,
+.vectorParent2 {
+  position: absolute;
+  top: 0.1px;
+  left: 0;
+  width: 52.9px;
+  height: 20.9px;
+}
+.vectorParent2 {
+  height: 27%;
+  width: 17.43%;
+  top: 0;
+  right: 66.04%;
+  bottom: 73%;
+  left: 16.54%;
+}
+.penskeLogo11,
+.vectorIcon4 {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon4 {
+  height: 99.84%;
+  width: 79.26%;
+  top: 0.16%;
+  right: 0;
+  bottom: 0;
+  left: 20.74%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+.penskeLogo11 {
+  top: 24.8px;
+  left: 27.4px;
+  width: 43px;
+  height: 17px;
+}
+.vectorParent4 {
+  position: absolute;
+  height: 27.04%;
+  width: 17.6%;
+  top: 0.42%;
+  right: 12.47%;
+  bottom: 72.54%;
+  left: 69.93%;
+}
+.groupChild6,
+.groupChild7,
+.vectorIcon5 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon5 {
+  height: 48.6%;
+  width: 15.35%;
+  top: 0.3%;
+  right: 0;
+  bottom: 51.1%;
+  left: 84.65%;
+  object-fit: contain;
+}
+.groupChild6,
+.groupChild7 {
+  height: 9.31%;
+  width: 12.41%;
+  top: 21.35%;
+  right: 1.48%;
+  bottom: 69.34%;
+  left: 86.11%;
+}
+.groupChild7 {
+  height: 20.29%;
+  width: 6.65%;
+  top: 79.79%;
+  right: 93.35%;
+  bottom: -0.08%;
+  left: 0;
+}
+.instanceWrapper2,
+.vectorParent6 {
+  position: absolute;
+  top: 0;
+  left: 338px;
+  width: 52.9px;
+  height: 20.9px;
+}
+.vectorParent6 {
+  height: 55.55%;
+  width: 90.9%;
+  top: 35.66%;
+  right: 1.65%;
+  bottom: 8.79%;
+  left: 7.45%;
+}
+.groupIcon3,
+.vectorIcon6 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon6 {
+  height: 99.69%;
+  width: 79.95%;
+  top: 0.31%;
+  right: 0;
+  bottom: 0;
+  left: 20.05%;
+  object-fit: contain;
+}
+.groupIcon3 {
+  height: 31.99%;
+  width: 54.05%;
+  top: 34.16%;
+  right: 12.95%;
+  bottom: 33.85%;
+  left: 33%;
+}
+.vectorParent8 {
+  position: absolute;
+  height: 27.08%;
+  width: 17.45%;
+  top: 72.92%;
+  right: 0;
+  bottom: 0;
+  left: 82.55%;
+}
+.freightMovers {
+  position: absolute;
+  top: 9.6px;
+  left: 173.9px;
+  font-size: var(--font-size-base);
+  line-height: 96.5%;
+  display: inline-block;
+  color: var(--color-steelblue);
+  width: 123.8px;
+  height: 16.2px;
+}
+.vectorParent {
+  position: absolute;
+  height: 25.95%;
+  width: 59%;
+  top: 45.71%;
+  right: 20.67%;
+  bottom: 28.35%;
+  left: 20.33%;
+}
+.frame,
+.vectorIcon7 {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon7 {
+  height: 32.26%;
+  width: 22.41%;
+  top: 55.06%;
+  right: 39.19%;
+  bottom: 12.68%;
+  left: 38.4%;
+  max-width: 100%;
+  max-height: 100%;
+  opacity: 0.9;
+  mix-blend-mode: multiply;
+}
+.frame {
+  top: 385.3px;
+  left: 149.7px;
+  width: 64.7px;
+  height: 7.6px;
+}
+.groupChild8,
+.vectorIcon8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 95.2px;
+  height: 95.2px;
+}
+.vectorIcon8 {
+  height: 22.47%;
+  width: 28.15%;
+  top: 77.53%;
+  right: 35.92%;
+  bottom: 0;
+  left: 35.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.groupParent1 {
+  position: absolute;
+  top: 317px;
+  left: 342.4px;
+  width: 95.2px;
+  height: 109.5px;
+}
+.groupChild10,
+.groupChild9 {
+  position: absolute;
+  top: 141px;
+  left: 319.5px;
+  width: 140.9px;
+  height: 144.4px;
+  object-fit: contain;
+}
+.groupChild10 {
+  top: 0;
+  left: 318.6px;
+  width: 142.7px;
+  height: 137.7px;
+}
+.groupIcon4,
+.vectorIcon9 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon9 {
+  height: 100%;
+  width: 79.65%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 20.35%;
+  object-fit: contain;
+}
+.groupIcon4 {
+  height: 38.63%;
+  width: 59.68%;
+  top: 34.58%;
+  right: 8.31%;
+  bottom: 26.79%;
+  left: 32.01%;
+}
+.groupChild11,
+.vectorParent11 {
+  position: absolute;
+  top: 0.9px;
+  left: 0;
+  width: 52.9px;
+  height: 20.9px;
+}
+.groupChild11 {
+  height: 79.72%;
+  width: 28.72%;
+  top: 9.79%;
+  right: 71.28%;
+  bottom: 10.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dms {
+  position: absolute;
+  top: 0;
+  left: 35.26%;
+  line-height: 129%;
+}
+.groupParent4,
+.vectorParent10 {
+  position: absolute;
+  height: 68.42%;
+  width: 75.05%;
+  top: 15.79%;
+  right: 10.02%;
+  bottom: 15.79%;
+  left: 14.93%;
+}
+.vectorParent10 {
+  height: 27.89%;
+  width: 11.29%;
+  top: 72.11%;
+  right: 88.71%;
+  bottom: 0;
+  left: 0;
+}
+.shape1Icon,
+.shapeIcon,
+.vectorIcon10 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon10 {
+  height: 100%;
+  width: 79.95%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 20.05%;
+  object-fit: contain;
+}
+.shape1Icon,
+.shapeIcon {
+  height: 14.02%;
+  width: 45.95%;
+  top: 47.04%;
+  right: 9.22%;
+  bottom: 38.94%;
+  left: 44.83%;
+}
+.shape1Icon {
+  height: 19.31%;
+  width: 12.45%;
+  top: 41.74%;
+  right: 58.9%;
+  left: 28.64%;
+}
+.vectorParent13,
+.vectorParent14 {
+  position: absolute;
+  top: 0.7px;
+  left: 0;
+  width: 52.9px;
+  height: 20.9px;
+}
+.vectorParent13 {
+  height: 27.89%;
+  width: 11.25%;
+  top: 32.49%;
+  right: 80.35%;
+  bottom: 39.62%;
+  left: 8.4%;
+}
+.groupIcon5,
+.vectorIcon11 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon11 {
+  height: 100%;
+  width: 79.55%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 20.45%;
+  object-fit: contain;
+}
+.groupIcon5 {
+  height: 23.21%;
+  width: 57.99%;
+  top: 38.47%;
+  right: 10.78%;
+  bottom: 38.32%;
+  left: 31.23%;
+}
+.vectorParent15,
+.vectorParent16 {
+  position: absolute;
+  top: 0.3px;
+  left: 0;
+  width: 52.9px;
+  height: 20.9px;
+}
+.vectorParent15 {
+  height: 27.89%;
+  width: 11.3%;
+  top: 0;
+  right: 68.02%;
+  bottom: 72.11%;
+  left: 20.68%;
+}
+.vectorIcon12 {
+  height: 100%;
+  width: 79.95%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 20.05%;
+  object-fit: contain;
+}
+.g4700Icon,
+.groupChild14,
+.instanceChild7,
+.vectorIcon12 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  transform: rotate(-180deg);
+}
+.g4700Icon {
+  height: 25.23%;
+  width: 57.16%;
+  top: 37.38%;
+  right: 11.71%;
+  bottom: 37.38%;
+  left: 31.13%;
+}
+.groupChild14,
+.instanceChild7 {
+  left: 0;
+}
+.instanceChild7 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 11.54px;
+}
+.groupChild14 {
+  height: 79.72%;
+  width: 28.72%;
+  top: 9.79%;
+  right: 71.28%;
+  bottom: 10.49%;
+}
+.groupWrapper4 {
+  position: absolute;
+  height: 27.89%;
+  width: 11.25%;
+  top: 0;
+  right: 8.68%;
+  bottom: 72.11%;
+  left: 80.07%;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.groupIcon6,
+.vectorIcon13 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  transform: rotate(-180deg);
+}
+.vectorIcon13 {
+  height: 100%;
+  width: 80.05%;
+  top: 0;
+  right: -0.12%;
+  bottom: 0;
+  left: 20.07%;
+  object-fit: contain;
+}
+.groupIcon6 {
+  height: 33.64%;
+  width: 61.47%;
+  top: 38.63%;
+  right: 5.74%;
+  bottom: 27.73%;
+  left: 32.79%;
+}
+.groupWrapper5 {
+  position: absolute;
+  height: 27.89%;
+  width: 11.23%;
+  top: 32.49%;
+  right: -2.9%;
+  bottom: 39.62%;
+  left: 91.67%;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.groupIcon7,
+.vectorIcon14 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  transform: rotate(-180deg);
+}
+.vectorIcon14 {
+  height: 100%;
+  width: 79.46%;
+  top: 0;
+  right: 0.12%;
+  bottom: 0;
+  left: 20.42%;
+  object-fit: contain;
+}
+.groupIcon7 {
+  height: 16.82%;
+  width: 65.59%;
+  top: 44.24%;
+  right: 8.54%;
+  bottom: 38.94%;
+  left: 25.87%;
+}
+.groupWrapper7 {
+  position: absolute;
+  height: 27.89%;
+  width: 11.32%;
+  top: 72.11%;
+  right: -11.32%;
+  bottom: 0;
+  left: 100%;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.groupParent3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.utilities {
+  position: absolute;
+  top: 1.7px;
+  left: 385.5px;
+  font-size: var(--font-size-base);
+  line-height: 129%;
+  color: var(--color-mediumpurple);
+}
+.groupParent2 {
+  position: absolute;
+  height: 25.12%;
+  width: 91.53%;
+  top: 11.4%;
+  right: 3.53%;
+  bottom: 63.48%;
+  left: 4.95%;
+  opacity: 0.5;
+}
+.mobility {
+  margin: 0;
+}
+.mobilityInfrastructure {
+  position: absolute;
+  top: 3px;
+  left: 306px;
+  line-height: 112.5%;
+}
+.groupChild17 {
+  height: 29.01%;
+  width: 10.77%;
+  top: 71.03%;
+  right: 0.02%;
+  bottom: -0.04%;
+  left: 89.22%;
+}
+.groupChild17,
+.groupChild18,
+.vectorIcon15 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon15 {
+  height: 99.53%;
+  width: 79.36%;
+  top: 0.31%;
+  right: 0.12%;
+  bottom: 0.16%;
+  left: 20.52%;
+  object-fit: contain;
+}
+.groupChild18 {
+  height: 35.81%;
+  width: 52.78%;
+  top: 34.42%;
+  right: 11.99%;
+  bottom: 29.77%;
+  left: 35.23%;
+}
+.vectorIcon16,
+.vectorParent23 {
+  position: absolute;
+  height: 29.29%;
+  width: 14.24%;
+  top: 70.71%;
+  right: 85.76%;
+  bottom: 0;
+  left: 0;
+}
+.vectorIcon16 {
+  height: 99.53%;
+  width: 79.85%;
+  top: 0.47%;
+  right: 0;
+  left: 20.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.vectorIcon17,
+.vectorParent25 {
+  position: absolute;
+  height: 29.29%;
+  width: 14.15%;
+  top: 32.2%;
+  right: 78.32%;
+  bottom: 38.51%;
+  left: 7.53%;
+}
+.vectorIcon17 {
+  height: 100%;
+  width: 79.36%;
+  top: 0;
+  right: 0.12%;
+  bottom: 0;
+  left: 20.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.schneiderElectric20071Icon {
+  position: absolute;
+  top: 26.9px;
+  left: 23.2px;
+  width: 49.5px;
+  height: 14.3px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.groupWrapper11 {
+  position: absolute;
+  top: 0.5px;
+  left: 0;
+  width: 52.9px;
+  height: 20.9px;
+}
+.groupIcon8,
+.vectorParent27 {
+  position: absolute;
+  height: 29.16%;
+  width: 14.24%;
+  top: 0;
+  right: 66.49%;
+  bottom: 70.84%;
+  left: 19.27%;
+}
+.groupIcon8 {
+  height: 46.73%;
+  width: 37.33%;
+  top: 38.01%;
+  right: 22.5%;
+  bottom: 15.26%;
+  left: 40.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupParent15 {
+  position: absolute;
+  top: 0.8px;
+  left: 0;
+  width: 52.9px;
+  height: 20.9px;
+}
+.groupChild23,
+.vectorParent29 {
+  position: absolute;
+  height: 29.16%;
+  width: 14.24%;
+  top: 32.33%;
+  right: 1.11%;
+  bottom: 38.51%;
+  left: 84.65%;
+}
+.groupChild23 {
+  height: 15.42%;
+  width: 66.38%;
+  top: 45.17%;
+  right: 7.54%;
+  bottom: 39.41%;
+  left: 26.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupWrapper19 {
+  position: absolute;
+  top: 0.6px;
+  left: 0;
+  width: 52.9px;
+  height: 20.9px;
+}
+.groupIcon9,
+.vectorParent32 {
+  position: absolute;
+  height: 29.16%;
+  width: 14.24%;
+  top: 0;
+  right: 12.87%;
+  bottom: 70.84%;
+  left: 72.9%;
+}
+.groupIcon9 {
+  height: 2.54%;
+  width: 8.62%;
+  top: 45.64%;
+  right: 79.66%;
+  bottom: 51.82%;
+  left: 11.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupParent18 {
+  position: absolute;
+  top: 162.4px;
+  left: 515.3px;
+  width: 52.9px;
+  height: 20.9px;
+}
+.groupParent10,
+.groupParent11 {
+  position: absolute;
+  height: 96.79%;
+  width: 95.29%;
+  top: 0;
+  right: 4.71%;
+  bottom: 3.21%;
+  left: 0;
+}
+.groupParent10 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  font-size: var(--font-size-xs-9);
+  color: var(--color-darkgreen);
+  font-family: var(--font-helvetica);
+}
+.mobilityInfrastructureParent {
+  position: absolute;
+  top: 264.2px;
+  left: 94.6px;
+  width: 596.3px;
+  height: 227.5px;
+  opacity: 0.5;
+  font-size: var(--font-size-base);
+  color: var(--color-mediumseagreen);
+  font-family: var(--font-ubuntu);
+}
+.ellipseParent,
+.groupDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 780px;
+  height: 916.5px;
+}
+.groupDiv {
+  top: 65.5px;
+  left: 84.2px;
+  font-size: var(--font-size-xs-9);
+  font-family: var(--font-helvetica);
+}
+.carrierLogin {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-honeydew);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkgreen);
+  font-family: var(--font-ubuntu);
+}

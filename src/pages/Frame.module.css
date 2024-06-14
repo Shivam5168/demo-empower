@@ -1,0 +1,175 @@
+.image54Icon,
+.image63Icon {
+  position: absolute;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+  display: none;
+}
+.image54Icon {
+  top: 0;
+  mix-blend-mode: overlay;
+}
+.image63Icon {
+  top: 2px;
+}
+.pptMesaDeTrabajo1Copy24 {
+  top: 0;
+  width: 1920px;
+  height: 1080.2px;
+  opacity: 0.5;
+  mix-blend-mode: overlay;
+}
+.image106Icon,
+.pptMesaDeTrabajo1Copy22,
+.pptMesaDeTrabajo1Copy24,
+.slide151 {
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+  display: none;
+}
+.pptMesaDeTrabajo1Copy22 {
+  top: 0;
+  width: 1920px;
+  height: 1080.2px;
+  opacity: 0.6;
+  mix-blend-mode: hard-light;
+}
+.image106Icon,
+.slide151 {
+  top: -100.6px;
+  width: 1916.1px;
+  height: 1278.6px;
+}
+.slide151 {
+  top: 0;
+  width: 1920px;
+  height: 1080px;
+}
+.electricVehiclePpt1Icon,
+.electricVehiclePpt2Icon,
+.electricVehiclePpt3Icon {
+  position: absolute;
+  top: -4px;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: contain;
+  display: none;
+}
+.electricVehiclePpt2Icon,
+.electricVehiclePpt3Icon {
+  top: 0;
+}
+.electricVehiclePpt3Icon {
+  top: -9.1px;
+  width: 1936.2px;
+  height: 1089.1px;
+}
+.davidSmith {
+  position: absolute;
+  top: 171.4px;
+  left: 990.9px;
+  font-weight: 500;
+  display: none;
+}
+.groupChild {
+  position: absolute;
+  height: 37.22%;
+  width: 92.93%;
+  top: 41.92%;
+  right: 5.21%;
+  bottom: 20.86%;
+  left: 1.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b,
+.wereWorkingOn {
+  position: absolute;
+  top: 0;
+  left: 19px;
+}
+.wereWorkingOn {
+  top: 182.9px;
+  left: 0;
+  font-size: 36px;
+  color: #000;
+}
+.buttonChild,
+.parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 328px;
+  height: 223.9px;
+}
+.buttonChild {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkgreen);
+  width: 226px;
+  height: 67.3px;
+}
+.goHome {
+  position: absolute;
+  top: 19.7px;
+  left: 79.2px;
+  text-transform: capitalize;
+}
+.arrow28Icon {
+  position: absolute;
+  top: 15.7px;
+  left: 36.2px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.button,
+.groupParent {
+  position: absolute;
+  top: 580.4px;
+  left: 51px;
+  width: 226px;
+  height: 67.3px;
+  font-size: 20px;
+  color: var(--color-white);
+}
+.groupParent {
+  height: 59.97%;
+  width: 17.08%;
+  top: 21.17%;
+  right: 41.46%;
+  bottom: 18.86%;
+  left: 41.46%;
+  font-size: 169.8px;
+  color: var(--color-darkgreen);
+  font-family: var(--font-ubuntu);
+}
+.child,
+.div {
+  overflow: hidden;
+}
+.child {
+  position: absolute;
+  height: 4.3%;
+  width: 13.33%;
+  top: 2.59%;
+  right: 84.45%;
+  bottom: 93.11%;
+  left: 2.21%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.div {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-honeydew);
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-gepestev);
+}
