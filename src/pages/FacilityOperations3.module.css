@@ -1,0 +1,595 @@
+.statusnew,
+.statusnewWrapper {
+  width: 12px;
+  position: absolute;
+  top: 0;
+  height: 12px;
+}
+.statusnew {
+  right: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-limegreen-100);
+  overflow: hidden;
+}
+.statusnewWrapper {
+  margin: 0 !important;
+  right: -1px;
+  z-index: 0;
+}
+.vectorIcon {
+  width: 18px;
+  position: relative;
+  height: 19px;
+}
+.notification,
+.notificationIcon {
+  display: flex;
+  justify-content: flex-start;
+}
+.notification {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-11xs);
+  z-index: 1;
+}
+.notificationIcon {
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.component30,
+.notificationIconWrapper {
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs);
+  box-sizing: border-box;
+}
+.component30 {
+  width: 46px;
+  border-radius: 51.43px;
+  background-color: var(--color-darkgreen);
+  border: 0.5px solid var(--color-gray-600);
+  height: 46px;
+  padding: var(--padding-2xs);
+}
+.davidSmith {
+  width: 85px;
+  position: relative;
+  font-weight: 500;
+  display: none;
+}
+.frameChild,
+.groupIcon {
+  width: 162px;
+  position: relative;
+  height: 30px;
+}
+.groupIcon {
+  width: 79px;
+  height: 37.2px;
+  display: none;
+}
+.logoChild {
+  width: 10px;
+  position: relative;
+  height: 5px;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.davidSmithParent {
+  gap: var(--gap-6xs);
+}
+.davidSmithParent,
+.user,
+.userWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.user {
+  gap: var(--gap-17xl);
+}
+.userWrapper {
+  z-index: 0;
+}
+.div {
+  position: relative;
+  letter-spacing: -0.03em;
+  font-weight: 500;
+}
+.vectorParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-6xs-6);
+}
+.frameItem {
+  width: 18px;
+  position: relative;
+  height: 18px;
+}
+.groupParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-6xs-6);
+}
+.frameParent,
+.topBar {
+  position: absolute;
+  display: flex;
+}
+.frameParent {
+  margin: 0 !important;
+  top: 23.2px;
+  left: 470px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm-9);
+  z-index: 1;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+  font-family: var(--font-ubuntu);
+}
+.topBar {
+  top: 0;
+  right: 0;
+  background-color: var(--color-whitesmoke-200);
+  width: 1233px;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-mid) var(--padding-3xs)
+    var(--padding-3xs);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  color: var(--color-white);
+}
+.activeTab,
+.icon {
+  display: flex;
+  justify-content: flex-start;
+}
+.icon {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-10xs);
+}
+.activeTab {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-mini);
+}
+.activeState {
+  position: absolute;
+  top: 217px;
+  left: 0;
+  width: 240px;
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-86xl) var(--padding-xs)
+    var(--padding-lgi);
+  box-sizing: border-box;
+}
+.icon1 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.vectorIcon2 {
+  width: 16.2px;
+  position: relative;
+  height: 18px;
+}
+.icon2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) var(--padding-9xs);
+}
+.line {
+  position: absolute;
+  width: calc(100% - 224px);
+  top: 64px;
+  right: 0;
+  left: 224px;
+  background-color: var(--color-whitesmoke-500);
+  height: 1.6px;
+}
+.maskGroupIcon {
+  position: absolute;
+  top: calc(50% - 398px);
+  left: calc(50% - 480px);
+  width: 1185px;
+  height: 863px;
+  object-fit: cover;
+}
+.kentuckyFacilities {
+  position: absolute;
+  top: 23px;
+  left: 240px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-ubuntu);
+  color: var(--color-gray-200);
+}
+.activeTab3,
+.icon3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.icon3 {
+  justify-content: center;
+  padding: var(--padding-10xs);
+}
+.activeTab3 {
+  justify-content: flex-start;
+}
+.facilityPlanning {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.component61Inner {
+  position: absolute;
+  height: 4.58%;
+  width: 80.8%;
+  top: 15.94%;
+  right: 17.86%;
+  bottom: 79.48%;
+  left: 1.34%;
+  border-radius: 0 var(--br-5xs) var(--br-5xs) 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+  box-sizing: border-box;
+}
+.empowerLogoIcon,
+.unionIcon2 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.empowerLogoIcon {
+  height: 3.16%;
+  width: 72.77%;
+  top: 2.19%;
+  right: 16.96%;
+  bottom: 94.66%;
+  left: 10.27%;
+  object-fit: cover;
+}
+.unionIcon2 {
+  height: 9.17%;
+  width: 95.09%;
+  top: 8.65%;
+  right: 0;
+  bottom: 82.19%;
+  left: 4.91%;
+}
+.icon4,
+.iconParent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.icon4 {
+  align-items: flex-start;
+  padding: var(--padding-10xs);
+}
+.iconParent {
+  position: absolute;
+  top: 115px;
+  left: 24px;
+  align-items: center;
+  gap: var(--gap-6xs);
+  color: var(--color-darkgreen-100);
+}
+.component61 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 224px;
+  height: 960px;
+  color: var(--color-powderblue);
+  font-family: var(--font-ubuntu);
+}
+.facilityOperations4Child {
+  position: absolute;
+  top: 31px;
+  left: 212px;
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+.component85Child,
+.filterChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.filterChild {
+  box-shadow: 0 4px 20px rgba(17, 17, 17, 0.15);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+}
+.component85Child {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.unionIcon4 {
+  width: 13.8px;
+  height: 20px;
+  object-fit: cover;
+}
+.normalOperation,
+.unionIcon4 {
+  position: relative;
+}
+.operation {
+  position: absolute;
+  height: 42.5%;
+  width: 68.4%;
+  top: 29.77%;
+  right: 20.1%;
+  bottom: 27.73%;
+  left: 11.5%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.component85 {
+  position: absolute;
+  height: 25%;
+  width: 100%;
+  top: 25%;
+  right: 0;
+  bottom: 50%;
+  left: 0;
+}
+.component87 {
+  height: 25%;
+  top: 52.27%;
+  bottom: 22.73%;
+}
+.component87,
+.filterInner,
+.filterItem {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.filterItem {
+  height: 25%;
+  top: 0;
+  bottom: 75%;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+}
+.filterInner {
+  height: 0.57%;
+  top: 25%;
+  bottom: 74.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.filters {
+  position: absolute;
+  top: 7.39%;
+  left: 9.5%;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+}
+.cross1Icon,
+.filterChild1,
+.filterChild2 {
+  position: absolute;
+  height: 0.57%;
+  width: 77%;
+  top: 52.27%;
+  right: 11.5%;
+  bottom: 47.16%;
+  left: 11.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cross1Icon,
+.filterChild2 {
+  top: 77.27%;
+  bottom: 22.16%;
+}
+.cross1Icon {
+  height: 6.82%;
+  width: 6%;
+  top: 9.09%;
+  right: 6%;
+  bottom: 84.09%;
+  left: 88%;
+}
+.reset {
+  position: absolute;
+  top: 84.66%;
+  left: 40.5%;
+  font-weight: 500;
+  color: var(--color-darkgreen);
+}
+.reset2 {
+  position: relative;
+  font-weight: 500;
+}
+.filter,
+.reset1 {
+  position: absolute;
+}
+.reset1 {
+  height: 22.73%;
+  width: 100%;
+  top: 100%;
+  right: 0;
+  bottom: -22.73%;
+  left: 0;
+  border-radius: var(--br-5xs) var(--br-5xs) 0 0;
+  background-color: var(--color-gray-400);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-62xl);
+  box-sizing: border-box;
+  color: var(--color-darkgreen);
+}
+.filter {
+  top: 101px;
+  left: 1202px;
+  width: 200px;
+  height: 176px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  font-family: var(--font-ubuntu);
+}
+.facilityOperations4Item {
+  position: absolute;
+  height: 6.96%;
+  width: 3.19%;
+  top: 54.06%;
+  right: 45.97%;
+  bottom: 38.98%;
+  left: 50.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component62Icon,
+.component64Icon {
+  position: absolute;
+  top: 354px;
+  left: 775px;
+  width: 46px;
+  height: 66.8px;
+  object-fit: cover;
+}
+.component64Icon {
+  top: 292px;
+  left: 744px;
+}
+.component65Icon,
+.component66Icon,
+.component67Icon,
+.component68Icon {
+  position: absolute;
+  top: 340px;
+  left: 829px;
+  width: 46px;
+  height: 66.8px;
+  object-fit: cover;
+}
+.component66Icon,
+.component67Icon,
+.component68Icon {
+  top: 367px;
+  left: 891px;
+}
+.component67Icon,
+.component68Icon {
+  top: 435px;
+  left: 937px;
+}
+.component68Icon {
+  top: 474px;
+  left: 882px;
+}
+.component63Icon,
+.component69Icon,
+.component70Icon,
+.component71Icon {
+  position: absolute;
+  top: 428px;
+  left: 735px;
+  width: 46px;
+  height: 66.8px;
+  object-fit: cover;
+}
+.component63Icon,
+.component70Icon,
+.component71Icon {
+  top: 495px;
+  left: 790px;
+}
+.component70Icon,
+.component71Icon {
+  top: 421px;
+  left: 821px;
+}
+.component70Icon {
+  top: 546px;
+  left: 843px;
+}
+.component72Icon,
+.component73Icon,
+.component74Icon,
+.component75Icon {
+  position: absolute;
+  top: 350px;
+  left: 709px;
+  width: 46px;
+  height: 66.8px;
+  object-fit: cover;
+}
+.component73Icon,
+.component74Icon,
+.component75Icon {
+  top: 326px;
+  left: 641px;
+}
+.component74Icon,
+.component75Icon {
+  top: 485px;
+  left: 668px;
+}
+.component75Icon {
+  top: 400px;
+  left: 673px;
+}
+.facilityOperations4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke-400);
+  height: 960px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-lightgray-300);
+  font-family: var(--font-roboto);
+}

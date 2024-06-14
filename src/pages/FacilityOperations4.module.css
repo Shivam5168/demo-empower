@@ -1,0 +1,533 @@
+.statusnew,
+.statusnewWrapper {
+  width: 12px;
+  position: absolute;
+  top: 0;
+  height: 12px;
+}
+.statusnew {
+  right: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-limegreen-100);
+  overflow: hidden;
+}
+.statusnewWrapper {
+  margin: 0 !important;
+  right: -1px;
+  z-index: 0;
+}
+.vectorIcon {
+  width: 18px;
+  position: relative;
+  height: 19px;
+}
+.notification,
+.notificationIcon {
+  display: flex;
+  justify-content: flex-start;
+}
+.notification {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-11xs);
+  z-index: 1;
+}
+.notificationIcon {
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.component30,
+.notificationIconWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.notificationIconWrapper {
+  height: 24px;
+  padding: var(--padding-12xs);
+  box-sizing: border-box;
+}
+.component30 {
+  border-radius: 51.43px;
+  background-color: var(--color-darkgreen);
+  border: 0.5px solid var(--color-gray-600);
+  padding: var(--padding-2xs);
+}
+.davidSmith {
+  width: 85px;
+  position: relative;
+  font-weight: 500;
+  display: none;
+}
+.frameChild,
+.groupIcon {
+  width: 162px;
+  position: relative;
+  height: 30px;
+}
+.groupIcon {
+  width: 79px;
+  height: 37.2px;
+  display: none;
+}
+.logoChild {
+  width: 10px;
+  position: relative;
+  height: 5px;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.davidSmithParent {
+  gap: var(--gap-6xs);
+}
+.davidSmithParent,
+.user,
+.userWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.user {
+  gap: var(--gap-17xl);
+}
+.userWrapper {
+  z-index: 0;
+}
+.div {
+  position: relative;
+  letter-spacing: -0.03em;
+  font-weight: 500;
+}
+.vectorParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-6xs-6);
+}
+.frameItem {
+  width: 18px;
+  position: relative;
+  height: 18px;
+}
+.groupParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-6xs-6);
+}
+.frameParent,
+.topBar {
+  position: absolute;
+  display: flex;
+}
+.frameParent {
+  margin: 0 !important;
+  top: 23.2px;
+  left: 579px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm-9);
+  z-index: 1;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+  font-family: var(--font-ubuntu);
+}
+.topBar {
+  top: 0;
+  right: 0;
+  background-color: var(--color-whitesmoke-200);
+  width: 1386px;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-mid) var(--padding-3xs)
+    var(--padding-3xs);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  color: var(--color-white);
+}
+.activeTab,
+.icon {
+  display: flex;
+  justify-content: flex-start;
+}
+.icon {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-10xs);
+}
+.activeTab {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-mini);
+}
+.activeState {
+  position: absolute;
+  top: 217px;
+  left: 0;
+  width: 240px;
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-86xl) var(--padding-xs)
+    var(--padding-lgi);
+  box-sizing: border-box;
+}
+.icon1 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.vectorIcon2 {
+  width: 16.2px;
+  position: relative;
+  height: 18px;
+}
+.icon2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) var(--padding-9xs);
+}
+.facilityOperations2Child,
+.vectorIcon3,
+.vectorIcon4,
+.vectorIcon5 {
+  position: absolute;
+  height: 100%;
+  width: 4.72%;
+  top: 0;
+  right: 95.28%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facilityOperations2Child,
+.vectorIcon4,
+.vectorIcon5 {
+  height: 9%;
+  width: 3.96%;
+  top: 8.73%;
+  bottom: 82.27%;
+  left: 0.76%;
+}
+.facilityOperations2Child,
+.vectorIcon5 {
+  height: 1.94%;
+  width: 1.06%;
+  top: 98%;
+  bottom: 0.06%;
+  left: 3.66%;
+}
+.facilityOperations2Child {
+  height: 4.38%;
+  width: 2.04%;
+  top: 1.98%;
+  right: 96.64%;
+  bottom: 93.65%;
+  left: 1.32%;
+  object-fit: cover;
+}
+.icon3,
+.icon4 {
+  position: absolute;
+  padding: var(--padding-10xs);
+}
+.icon3 {
+  top: 115px;
+  left: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icon4 {
+  top: 217px;
+  left: 22px;
+  height: 24px;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.activeTab3,
+.icon4,
+.icon5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.icon5 {
+  justify-content: center;
+  padding: var(--padding-10xs);
+}
+.activeTab3 {
+  position: absolute;
+  top: 170px;
+  left: 22px;
+  justify-content: flex-start;
+}
+.line {
+  position: absolute;
+  top: 64px;
+  right: 0;
+  background-color: var(--color-whitesmoke-500);
+  width: 1216px;
+  height: 1.6px;
+}
+.maskGroupIcon {
+  position: absolute;
+  top: calc(50% - 398px);
+  left: calc(50% - 636px);
+  width: 1341px;
+  height: 863px;
+  object-fit: cover;
+}
+.facilityOperations2Child1,
+.facilityOperations2Inner,
+.facilityOperations2Item {
+  position: absolute;
+  height: 7.82%;
+  width: 4.99%;
+  top: 33.33%;
+  right: 44.99%;
+  bottom: 58.84%;
+  left: 50.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facilityOperations2Child1,
+.facilityOperations2Inner {
+  height: 7.51%;
+  width: 4.78%;
+  top: 35.52%;
+  right: 47.58%;
+  bottom: 56.97%;
+  left: 47.64%;
+}
+.facilityOperations2Child1 {
+  height: 10.32%;
+  width: 6.58%;
+  top: 29.9%;
+  right: 47.17%;
+  bottom: 59.78%;
+  left: 46.25%;
+}
+.facilityOperations2Child2,
+.facilityOperations2Child3,
+.facilityOperations2Child4,
+.facilityOperations2Child5 {
+  position: absolute;
+  height: 6.4%;
+  width: 4.08%;
+  top: 37.6%;
+  right: 45.43%;
+  bottom: 56%;
+  left: 50.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facilityOperations2Child3,
+.facilityOperations2Child4,
+.facilityOperations2Child5 {
+  top: 41.88%;
+  right: 48.14%;
+  bottom: 51.73%;
+  left: 47.78%;
+}
+.facilityOperations2Child4,
+.facilityOperations2Child5 {
+  height: 4.88%;
+  width: 3.11%;
+  top: 41.56%;
+  right: 51.68%;
+  bottom: 53.56%;
+  left: 45.21%;
+}
+.facilityOperations2Child5 {
+  height: 3.79%;
+  width: 2.42%;
+  top: 52.86%;
+  right: 59.67%;
+  bottom: 43.34%;
+  left: 37.92%;
+}
+.facilityOperations2Child6,
+.facilityOperations2Child7,
+.facilityOperations2Child8 {
+  position: absolute;
+  height: 6.43%;
+  width: 4.1%;
+  top: 45.1%;
+  right: 57.57%;
+  bottom: 48.47%;
+  left: 38.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facilityOperations2Child7,
+.facilityOperations2Child8 {
+  top: 55.31%;
+  right: 43.4%;
+  bottom: 38.26%;
+  left: 52.5%;
+}
+.facilityOperations2Child8 {
+  height: 4.9%;
+  width: 3.13%;
+  top: 60.31%;
+  right: 48.54%;
+  bottom: 34.79%;
+  left: 48.33%;
+}
+.facilityOperations2Child10,
+.facilityOperations2Child11,
+.facilityOperations2Child9 {
+  position: absolute;
+  height: 3.92%;
+  width: 2.5%;
+  top: 54.27%;
+  right: 47.78%;
+  bottom: 41.81%;
+  left: 49.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facilityOperations2Child10,
+.facilityOperations2Child11 {
+  height: 2.81%;
+  width: 1.79%;
+  top: 50.42%;
+  right: 51.53%;
+  bottom: 46.77%;
+  left: 46.67%;
+}
+.facilityOperations2Child11 {
+  height: 4.58%;
+  width: 2.92%;
+  top: 57.08%;
+  right: 53.12%;
+  bottom: 38.33%;
+  left: 43.96%;
+}
+.facilityOperations2Child12,
+.facilityOperations2Child13,
+.facilityOperations2Child14 {
+  position: absolute;
+  height: 2.95%;
+  width: 1.88%;
+  top: 63.3%;
+  right: 62.35%;
+  bottom: 33.75%;
+  left: 35.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facilityOperations2Child13,
+.facilityOperations2Child14 {
+  top: 43.02%;
+  right: 63.4%;
+  bottom: 54.03%;
+  left: 34.72%;
+}
+.facilityOperations2Child14 {
+  height: 6.15%;
+  width: 3.92%;
+  top: 35%;
+  right: 57.06%;
+  bottom: 58.85%;
+  left: 39.03%;
+}
+.facilityOperations2Child15,
+.facilityOperations2Child16,
+.facilityOperations2Child17 {
+  position: absolute;
+  height: 8.44%;
+  width: 5.38%;
+  top: 24.9%;
+  right: 54.55%;
+  bottom: 66.67%;
+  left: 40.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facilityOperations2Child16,
+.facilityOperations2Child17 {
+  height: 8.07%;
+  width: 5.15%;
+  top: 47.92%;
+  right: 42.35%;
+  bottom: 44.01%;
+  left: 52.5%;
+}
+.facilityOperations2Child17 {
+  height: 5.05%;
+  width: 3.22%;
+  top: 53.02%;
+  right: 39.9%;
+  bottom: 41.93%;
+  left: 56.88%;
+}
+.facilityOperations2Child18,
+.facilityOperations2Child19,
+.facilityOperations2Child20 {
+  position: absolute;
+  height: 6.51%;
+  width: 4.15%;
+  top: 44.69%;
+  right: 39.11%;
+  bottom: 48.8%;
+  left: 56.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facilityOperations2Child19,
+.facilityOperations2Child20 {
+  height: 6.65%;
+  width: 4.24%;
+  top: 50.36%;
+  right: 62.08%;
+  bottom: 42.99%;
+  left: 33.68%;
+}
+.facilityOperations2Child20 {
+  height: 5.09%;
+  width: 3.25%;
+  top: 38.33%;
+  right: 43.76%;
+  bottom: 56.57%;
+  left: 52.99%;
+}
+.facilityOperations2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke-400);
+  height: 960px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-lightgray-300);
+  font-family: var(--font-roboto);
+}
