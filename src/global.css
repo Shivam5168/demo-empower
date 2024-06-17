@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Saira:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
 body {
   margin: 0;
   line-height: normal;
@@ -8,6 +10,8 @@ body {
   /* fonts */
   --font-roboto: Roboto;
   --font-ubuntu: Ubuntu;
+  --font-saira: Saira;
+  --h3-regular: Poppins;
 
   /* font sizes */
   --font-size-xs-9: 11.9px;
@@ -15,7 +19,7 @@ body {
   --font-size-9xl: 28px;
   --font-size-lg: 18px;
   --font-size-3xl: 22px;
-  --font-size-xs: 12px;
+  --h3-regular-size: 12px;
   --font-size-sm: 14px;
 
   /* Colors */
@@ -36,6 +40,7 @@ body {
   --color-whitesmoke-200: #f8f8f8;
   --color-whitesmoke-100: #f7f7fa;
   --color-whitesmoke-300: #f4f6f8;
+  --color-whitesmoke-600: #f5f5f5;
   --grey-blue-96: #f2f3f5;
   --color-whitesmoke-400: #f1f1f1;
   --color-whitesmoke-500: #eee;
@@ -43,8 +48,10 @@ body {
   --color-lightgray-300: #cdd2cf;
   --color-lightgray-100: #cfcfcf;
   --color-limegreen-100: #3ad049;
+  --color-limegreen-200: #32ba40;
   --color-powderblue: #cee6ed;
   --color-forestgreen-100: #3a9243;
+  --color-forestgreen-200: #00ab30;
 
   /* Gaps */
   --gap-3xs: 10px;
@@ -60,6 +67,9 @@ body {
   --gap-2xs: 11px;
   --gap-4xs: 9px;
   --gap-9xs: 4px;
+  --gap-7xs: 6px;
+  --gap-12xs: 1px;
+  --gap-5xs-2: 7.2px;
 
   /* Paddings */
   --padding-2xs: 11px;
@@ -76,6 +86,8 @@ body {
   --padding-12xs: 1px;
   --padding-11xs: 2px;
   --padding-62xl: 81px;
+  --padding-7xs: 6px;
+  --padding-4xl: 23px;
 
   /* Border radiuses */
   --br-xs-5: 11.5px;
@@ -83,4 +95,8 @@ body {
   --br-5xs: 8px;
   --br-32xl-4: 51.4px;
   --br-21xl-9: 40.9px;
+  --br-21xl: 40px;
+  --br-13xl-1: 32.1px;
+  --br-base: 16px;
+  --br-6xs-4: 6.4px;
 }

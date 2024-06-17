@@ -14,6 +14,11 @@ import FacilityOperations1 from "./pages/FacilityOperations1";
 import FacilityOperations2 from "./pages/FacilityOperations2";
 import FacilityOperations3 from "./pages/FacilityOperations3";
 import FacilityOperations4 from "./pages/FacilityOperations4";
+import FacilityOperations5 from "./pages/FacilityOperations5";
+import FacilityOperations6 from "./pages/FacilityOperations6";
+import FacilityOperations7 from "./pages/FacilityOperations7";
+import FacilityOperations8 from "./pages/FacilityOperations8";
+import FacilityOperations9 from "./pages/FacilityOperations9";
 
 function App() {
   const action = useNavigationType();
@@ -67,6 +72,26 @@ function App() {
         title = "";
         metaDescription = "";
         break;
+      case "/facility-operations-42":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/facility-operations-43":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/facility-operations-5":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/facility-operations-6":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/facility-operations-7":
+        title = "";
+        metaDescription = "";
+        break;
     }
 
     if (title) {
@@ -97,6 +122,11 @@ function App() {
       <Route path="/facility-operations-4" element={<FacilityOperations2 />} />
       <Route path="/facility-operations-41" element={<FacilityOperations3 />} />
       <Route path="/facility-operations-2" element={<FacilityOperations4 />} />
+      <Route path="/facility-operations-42" element={<FacilityOperations5 />} />
+      <Route path="/facility-operations-43" element={<FacilityOperations6 />} />
+      <Route path="/facility-operations-5" element={<FacilityOperations7 />} />
+      <Route path="/facility-operations-6" element={<FacilityOperations8 />} />
+      <Route path="/facility-operations-7" element={<FacilityOperations9 />} />
     </Routes>
   );
 }
